@@ -16,10 +16,12 @@ I’m Komal Singh, a final-year B.Tech Computer Science student and an aspiring 
 </div>
 
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Komalsingh-26&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Komalsingh-26&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Komalsingh-26&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Komalsingh-26&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ### ✍️ Random Dev Quote
