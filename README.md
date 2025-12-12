@@ -95,3 +95,4 @@ Actively seeking **SDE-1 / Full Stack Developer** opportunities to build impactf
 [![](https://visitcount.itsvg.in/api?id=Komalsingh-26&icon=4&color=5)](https://visitcount.itsvg.in)
 
 
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-purple.svg)
