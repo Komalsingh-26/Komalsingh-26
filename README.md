@@ -15,12 +15,28 @@ I’m Komal Singh, a final-year B.Tech Computer Science student and an aspiring 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+# 📊 GitHub Stats
+
+## 🔥 Contribution Streak
+<img src="https://nirzak-streak-stats.vercel.app/?user=Komalsingh-26&theme=cobalt&hide_border=false" alt="Streak"/>
+
+---
+
+## 🧠 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komalsingh-26&theme=cobalt&hide_border=false&layout=compact" alt="Top Languages"/>
+
+---
+
+## 📈 Contribution Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Komalsingh-26&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+
+---
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Komalsingh-26&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Komalsingh-26&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Komalsingh-26&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
 
 
 
@@ -33,4 +49,4 @@ I’m Komal Singh, a final-year B.Tech Computer Science student and an aspiring 
 ---
 [![](https://visitcount.itsvg.in/api?id=Komalsingh-26&icon=4&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
