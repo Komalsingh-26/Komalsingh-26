@@ -1,7 +1,18 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/89b6116e-17dc-4963-b0f2-58a679aa8d99"
+       alt="Komal Singh Banner"
+       style="width:100%; height:180px; object-fit:cover;" />
+</p>
+
 # 💫 About Me:
 I’m Komal Singh, a final-year B.Tech Computer Science student and an aspiring Full Stack Developer (MERN) with hands-on experience building scalable, high-performance web applications.<br><br>During my internships at CodSoft and Edureka, I contributed across the full stack—built RESTful APIs with Node.js & Express,developed responsive UI components with React,integrated and optimized MongoDB queries, and deployed containerized applications using Docker.My work led to measurable improvements such as:30% faster frontend performance through UI optimization,25% reduction in backend query response time,significant workflow improvements via Docker-based setups.<br><br>Technical Areas of Focus<br>• Full Stack Web Development (React, Node.js, Express, MongoDB)<br>• REST APIs, WebSockets, Event-Driven Systems<br>• Docker, Git/GitHub, Linux<br>• DSA (Java), OOP, DBMS, OS<br><br>I love solving real-world problems through clean, efficient code and continuously improving my engineering skills. I’m currently seeking opportunities as a Full Stack Developer / SDE-1 (Fresher) to build impactful, user-focused products.<br><br>📩 Open to collaboration and exciting opportunities.
 
-<img src = "https://camo.githubusercontent.com/396deae72bcb2ee884a7bda8fd8fe783e67870b17697b2a9496a032a0f191985/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966"/>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/396deae72bcb2ee884a7bda8fd8fe783e67870b17697b2a9496a032a0f191985/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966"
+       width="100%"
+       height="180"
+       style="object-fit:cover;" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-singh-04578b279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhkomalp266@gmail.com) 
