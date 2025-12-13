@@ -8,6 +8,8 @@
 # 👋 Hello World, I'm Komal Singh
 
 I’m a final-year **B.Tech CSE (2026)** student and a passionate **Full Stack Developer (MERN)** with experience building scalable, real-time, and high-performance applications.
+> ⚡ I build real-time, production-ready systems — not just demo projects.
+
 
 During my internships at **CodSoft** and **Edureka**, I worked across the full stack:
 
@@ -98,8 +100,6 @@ Actively seeking **SDE-1 / Full Stack Developer** opportunities to build impactf
 
 ---
 
-## 🧠 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komalsingh-26&theme=cobalt&hide_border=false&layout=compact" alt="Top Languages"/>
 
 ---
 
