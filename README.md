@@ -6,6 +6,8 @@
 </p>
 
 # 👋 Hello World, I'm Komal Singh
+🌐 **Portfolio:** [https://komalsingh.online](https://komalsingh.online)
+
 
 I’m a final-year **B.Tech CSE (2026)** student and a passionate **Full Stack Developer (MERN)** with experience building scalable, real-time, and high-performance applications.
 > ⚡ I build real-time, production-ready systems — not just demo projects.
@@ -51,7 +53,10 @@ Actively seeking **SDE-1 / Full Stack Developer** opportunities to build impactf
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-singh-04578b279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhkomalp266@gmail.com) 
+## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-komalsingh.online-blue?style=for-the-badge)](https://komalsingh.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-singh-04578b279)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhkomalp266@gmail.com)
 
 ## 🛠️ Tech Stack & Expertise
 
