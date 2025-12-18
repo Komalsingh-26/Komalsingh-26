@@ -51,8 +51,6 @@ Actively seeking **SDE-1 / Full Stack Developer** opportunities to build impactf
        style="object-fit:cover;" />
 </p>
 
-
-## 🌐 Socials:
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-komalsingh.online-blue?style=for-the-badge)](https://komalsingh.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-singh-04578b279)
