@@ -9,7 +9,7 @@
 🌐 **Portfolio:** [https://komalsingh.online](https://komalsingh.online)
 
 
-I’m a final-year **B.Tech CSE (2026)** student and a passionate **Full Stack Developer (MERN)** with experience building scalable, real-time, and high-performance applications.
+I’m **B.Tech CSE (2026)** graduate and a passionate **Full Stack Developer (MERN)** with experience building scalable, real-time, and high-performance applications.
 > ⚡ I build real-time, production-ready systems — not just demo projects.
 
 
